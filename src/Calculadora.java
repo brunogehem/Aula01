@@ -27,9 +27,9 @@ public class Calculadora {
 	
 	
 	System.out.println("A soma entre os dois valores informadoes é " + soma);
-	System.out.println("A subtração entre os dois valores é" + subtracao);
-	System.out.println("A divisao entre os dois valores informadoes é" + divisao);
-	System.out.println("A multiplicação entre os dois valores informados é" + multiplicacao);
+	System.out.println("A subtração entre os dois valores é " + subtracao);
+	System.out.println("A divisao entre os dois valores informadoes é " + divisao);
+	System.out.println("A multiplicação entre os dois valores informados é " + multiplicacao);
 	
 	leitor.close();
 	
